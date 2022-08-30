@@ -145,6 +145,8 @@ WebUI
 NN:9870
 (public IP:9870)paste in web brouser
 
+( NOTE : - "fg" Retriving lost data from while editing in nano editor )
+
 ##### Important instance security group setting ##### 
 
 Take Default security group...
